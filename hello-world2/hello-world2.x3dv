@@ -22,7 +22,7 @@ Transform {
         url "earth.jpg"
       }
     }
-    geometry Sphere { }
+    geometry Cube { }
   }
 }
 
